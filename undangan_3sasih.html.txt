@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tigang Sasih Raihana</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Undangan Upacara Tigang Sasih Raihana</h1>
+            <h2>29 Oktober 2025</h2>
+        </header>
+
+        <section class="details">
+            <p class="greeting">
+                Om Swastyastu,
+            </p>
+            <p>
+                Kami mengundang Kumpi/Pekak/Nini/Bapak/Ibu dan saudara emua untuk hadir dalam upacara Tigan Ssih anak kami tercinta,
+            </p>
+
+            <div class="child-info">
+                <h3>Komang Ayu Raihana Kamaniya</h3>
+                <p>yang kini telah menginjak usia</p>
+                <div class="age">5 TAHUN</div>
+            </div>
+
+            <div class="event-info">
+                <p><strong>Hari/Tanggal:</strong> Rabu, 29 Oktober 2025</p>
+                <p><strong>Pukul:</strong> 15.00 WITA - selesai</p>
+                <p><strong>Tempat:</strong> Griysa Kasaiwan Giri Mandala, Marga, Tabanan</p>
+            </div>
+            
+            <p class="theme">
+                Pakaian: Adat
+            </p>
+        </section>
+
+        <section class="rsvp">
+            <p>Mohon konfirmasi kehadiran (RSVP) paling lambat [Tanggal RSVP]:</p>
+            <a href="https://wa.me/6281246256262?text=Halo%2C%20saya%20akan%20hadir%20di%20pesta%20ulang%20tahun%20[Nama%20Anak]" target="_blank" class="whatsapp-btn">
+                Konfirmasi Kehadiran (WhatsApp)
+            </a>
+        </section>
+
+        <footer>
+            <p>Salam hangat dari keluarga,</p>
+            <p>dr. Ariyoga dan dr. Ayu Ines</p>
+        </footer>
+    </div>
+
+</body>
+</html>
